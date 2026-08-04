@@ -20,3 +20,11 @@ console.log(numero % 5); //operador
 // === Estritamente
 // != Diferente
 // !== EStritamente
+
+console.log(25 > 35); // false
+console.log(25 > 10); // true
+console.log(25 < 10); // false
+
+console.log(50 == "50"); // true
+console.log(50 == "50"); // false
+
