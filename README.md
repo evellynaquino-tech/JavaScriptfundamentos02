@@ -8,5 +8,5 @@ Ao final desta aula, aluno será capaz de:
 *ultilizar operadores de comparação e operadores lógicos.
 *Desenvolver algoritimos ultilizando `if`, `else` e .`else if`
 *ultilizar a estrutura `switch`
-*Criar repetições `for`, `while`e `do...`do...while´.
+*Criar repetições `for`, `while`e `do...while`.
 *resolver problema ultilizando lógica de programação
