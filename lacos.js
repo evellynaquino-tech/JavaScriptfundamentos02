@@ -57,3 +57,10 @@ while(numero <= 10){
     console.log(numero);
     numero++;
 }
+
+let contador =1;
+
+do{
+    console.log(contador);
+    contador++;
+} while (contador <= 3);
